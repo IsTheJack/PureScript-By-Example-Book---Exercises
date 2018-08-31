@@ -1,5 +1,8 @@
-# PureScript-By-Example-Book---Exercises
-Study about PureScript through the book 'PureScript By Example'
+# PureScript By Example - Book Exercises
+
+![PureScript Logo](https://raw.githubusercontent.com/IsTheJack/PureScript-By-Example-Book---Exercises/master/purescript.png)
+
+My study about PureScript through the book 'PureScript By Example'
 
 - [x] 1- Introduction
 - [ ] 2- Get Started
